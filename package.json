@@ -18,7 +18,6 @@
     ]
   },
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/learn-co-curriculum/react-hooks-npm-lab.git"
@@ -29,5 +28,8 @@
     "url": "https://github.com/learn-co-curriculum/react-hooks-npm-lab/issues"
   },
   "homepage": "https://github.com/learn-co-curriculum/react-hooks-npm-lab#readme",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "esbuild": "^0.25.2"
+  }
 }
